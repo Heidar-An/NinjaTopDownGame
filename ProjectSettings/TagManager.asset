@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Doors
+  - WeaponChild
+  - Enemy
+  - Heart
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Grass
+    uniqueID: 1123962217
+    locked: 0
+  - name: Background
+    uniqueID: 2007905049
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Doors
+    uniqueID: 2103202103
+    locked: 0
+  - name: Player
+    uniqueID: 1659777115
+    locked: 0
